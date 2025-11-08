@@ -1,0 +1,23 @@
+# Build Folders
+bin/
+obj/
+
+# User-specific
+*.user
+*.suo
+*.userprefs
+*.log
+
+# VS & cache
+.vs/
+.vscode/
+*.sln.docstates
+
+# Database
+*.mdf
+*.ldf
+
+# Executables / binaries
+*.exe
+*.dll
+*.pdb

@@ -1,0 +1,9 @@
+Source/WarehouseMA/DAL/DichVuGoogleSheetsAndMYSQLADL.cs:35==YOUR_GOOGLE_CLIENT_ID
+Source/WarehouseMA/DAL/GiaHanDAL.cs:32==YOUR_GOOGLE_CLIENT_ID
+Source/WarehouseMA/DAL/QuanLyDonHangDAL.cs:43==YOUR_GOOGLE_CLIENT_ID
+Source/WarehouseMA/DAL/QuanLyKiemKeDAL.cs:66==YOUR_GOOGLE_CLIENT_ID
+
+Source/WarehouseMA/DAL/DichVuGoogleSheetsAndMYSQLADL.cs:36==YOUR_GOOGLE_CLIENT_SECRET
+Source/WarehouseMA/DAL/GiaHanDAL.cs:33==YOUR_GOOGLE_CLIENT_SECRET
+Source/WarehouseMA/DAL/QuanLyDonHangDAL.cs:44==YOUR_GOOGLE_CLIENT_SECRET
+Source/WarehouseMA/DAL/QuanLyKiemKeDAL.cs:68==YOUR_GOOGLE_CLIENT_SECRET
