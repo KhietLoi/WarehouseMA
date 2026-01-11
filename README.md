@@ -45,7 +45,7 @@ Phần mềm được phát triển theo quy trình đầy đủ gồm: **Phân 
 | Lĩnh vực | Đóng góp |
 | :--- | :--- |
 | **Business Analyst (BA)** | Thu thập yêu cầu người dùng, viết **SRS** và **BRD**, thiết kế **ERD** và các sơ đồ **UML** (Use Case, Class, Activity, Sequence, State). Phân tích nghiệp vụ và xây dựng thuật toán tối ưu vị trí kho. |
-| **Developer (Chính)** | Thiết kế và lập trình các module xử lý nghiệp vụ (Quản lý Kho, Yêu cầu, Đơn hàng, Kiểm kê). Tuân thủ coding convention và tối ưu hiệu suất xử lý dữ liệu. |
+| **Developer** | Thiết kế và lập trình các module xử lý nghiệp vụ (Quản lý Kho, Yêu cầu, Đơn hàng, Kiểm kê). Tuân thủ coding convention và tối ưu hiệu suất xử lý dữ liệu. |
 ---
 
 ## 🛠️ Tính năng Chính
