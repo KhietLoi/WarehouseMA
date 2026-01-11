@@ -40,7 +40,7 @@ Phần mềm được phát triển theo quy trình đầy đủ gồm: **Phân 
 
 ## 🧠 Vai trò và Đóng góp Cá nhân
 
-**Vai trò chính:** Business Analyst (BA) & Main Developer  
+**Vai trò chính:** Business Analyst (BA) & Backend Developer  
 
 | Lĩnh vực | Đóng góp |
 | :--- | :--- |
