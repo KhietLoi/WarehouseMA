@@ -68,7 +68,7 @@ Phần mềm được phát triển theo quy trình đầy đủ gồm: **Phân 
 
 ## 📄 Tài Liệu Dự Án
 
-- [📘 Báo cáo Tổng kết Dự án (PDF)](./Document/2024.12.04_TDT-N20-WarehouseMA.0-TongKet.pdf)  
+- [📘 Các biên bản, tài liệu tổng kết dự án (PDF)](./Document/)  
   Bao gồm: SRS, BRD, ERD, UML, thiết kế UI/UX, kế hoạch dự án và tài liệu kiểm thử.
 
 - **Mã nguồn:** Toàn bộ code C# WinForms và các script tạo cơ sở dữ liệu.
